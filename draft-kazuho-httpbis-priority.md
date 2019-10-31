@@ -274,7 +274,7 @@ specification is 0xTBD.
 
 Endpoints SHOULD emit the Priority header field regardless of the result of the
 negotitation, as that negotiation is a hop-by-hop agreement, whereas the
-Priority header field is an end-to-end signal, that might have meaningful effect
+Priority header field is an end-to-end signal that might have meaningful effect
 to other nodes that handle the HTTP message.
 
 # Considerations
